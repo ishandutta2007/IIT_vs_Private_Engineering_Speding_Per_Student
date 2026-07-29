@@ -83,11 +83,11 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 
 | Funding Component Source | Amount Per Student / Year | Percentage |
 | :--- | :--- | :--- |
-| **Government Direct Budgetary Support** | ₹673,500 | 68.2% |
-| **Student-Paid Fee (Unsubsidized General/UG)** | ₹230,000 | 23.3% |
+| **Government Direct Budgetary Support** | ₹6,73,500 | 68.2% |
+| **Student-Paid Fee (Unsubsidized General/UG)** | ₹2,30,000 | 23.3% |
 | **Management Quota Donation Redistribution** | 0 | 0% |
 | **Research Grants & Corporate Endowments** | ₹83,333 | 8.5% |
-| **TOTAL Annual Capital Invested (IIT)** | **₹986,833** | **100%** |
+| **TOTAL Annual Capital Invested (IIT)** | **₹9,86,833** | **100%** |
 
 ### 🏢 Private College Final Distribution
 
@@ -111,7 +111,7 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 | **Management Quota Donation Redistribution** | ₹9,375 | 2.4% |
 | **Industrial Training & Local Consultancies** | ₹2,500 | 0.6% |
 | **Research Grants & Corporate Endowments** | 0 | 0% |
-| **TOTAL Annual Capital Invested (Tier III Private)** | **₹391,875** | **100%** |
+| **TOTAL Annual Capital Invested (Tier III Private)** | **₹3,91,875** | **100%** |
 
 <h3 style="color: #e74c3c;"><strong>💡 Conclusion: An average private engineering college may run on less than half the capital of IIT (per student) whereas a Tier I private engineering college might run on 1.5x the capital of IIT 💡</strong></h3>
 
