@@ -102,3 +102,6 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 | **Management Quota Donation Redistribution** | ₹9,375 | 2.4% |
 | **Industrial Training & Local Consultancies** | ₹2,500 | 0.6% |
 | **TOTAL Annual Capital Invested (Private)** | **₹391,875** | **100%** |
+
+*** Conclusion: An average private college may run on less than half the capital of IIT per student whereas a Tier I private college might run on 1.5x the capital of IIT ***
+
