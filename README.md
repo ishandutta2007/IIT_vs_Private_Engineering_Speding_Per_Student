@@ -77,6 +77,7 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 | :--- | :--- | :--- |
 | **Government Direct Budgetary Support** | ₹673,500 | 68.2% |
 | **Student-Paid Fee (Unsubsidized General/UG)** | ₹230,000 | 23.3% |
+| **Management Quota Donation Redistribution** | 0 | 0% |
 | **Research Grants & Corporate Endowments** | ₹83,333 | 8.5% |
 | **TOTAL Annual Capital Invested (IIT)** | **₹986,833** | **100%** |
 
