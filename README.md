@@ -83,10 +83,22 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 
 ### Private College Final Distribution
 
+Tier I private college
+
 | Funding Component Source | Amount Per Student / Year | Percentage |
 | :--- | :--- | :--- |
 | **Government Direct Budgetary Support** | 0 | 0% |
-| **Student-Paid Fee (Merit/Standard Intake)** | ₹380,000 | 97.0% |
+| **Student-Paid Fee (Merit/Standard Intake)** | ₹3,80,000 | % |
+| **Management Quota Donation Redistribution** | ₹11,40,000 | % |
+| **Industrial Training & Local Consultancies** | ₹2,500 | % |
+| **TOTAL Annual Capital Invested (Private)** | **₹15,22,500** | **100%** |
+
+Tier III private college
+
+| Funding Component Source | Amount Per Student / Year | Percentage |
+| :--- | :--- | :--- |
+| **Government Direct Budgetary Support** | 0 | 0% |
+| **Student-Paid Fee (Merit/Standard Intake)** | ₹3,80,000 | 97.0% |
 | **Management Quota Donation Redistribution** | ₹9,375 | 2.4% |
 | **Industrial Training & Local Consultancies** | ₹2,500 | 0.6% |
 | **TOTAL Annual Capital Invested (Private)** | **₹391,875** | **100%** |
