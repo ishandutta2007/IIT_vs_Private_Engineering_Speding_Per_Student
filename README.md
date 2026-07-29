@@ -114,7 +114,7 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 | **TOTAL Annual Capital Invested (Tier III Private)** | **₹3,91,875** | **100%** |
 
 
-As you can see, a tier 3 private engineering college hardly gets any management quota donations whereas a tier 3 private engineering college gets to support entire govt support of IITs with that management quota donations.
+As you can see, a tier 3 private engineering college hardly gets any management quota donations whereas a tier 1 private engineering college gets equivalent of entire govt support of IITs from management quota donations.
 
 
 <h3 style="color: #e74c3c;"><strong>💡 Conclusion: An average private engineering college may run on less than half the capital of IIT (per student) whereas a Tier I private engineering college might run on 1.5x the capital of IIT 💡</strong></h3>
