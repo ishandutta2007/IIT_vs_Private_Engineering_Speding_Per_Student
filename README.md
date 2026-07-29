@@ -1,4 +1,4 @@
-# Engineering Education Funding & Expenditure Breakdown: A Tier I private college might have 1.5x the budget of IIT
+# 🎓 Engineering Education Funding & Expenditure Breakdown: A Tier I private college might have 1.5x the budget of IIT 💰
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -6,9 +6,9 @@ A comparative financial analysis between public (IIT) and private engineering in
 
 ---
 
-## Part 1: Public Institutions (IIT Ecosystem)
+## 🏛️ Part 1: Public Institutions (IIT Ecosystem)
 
-### Phase 1: Institutional Core Variables (IIT)
+### 📊 Phase 1: Institutional Core Variables (IIT)
 
 *   **Total Annual Government Funding (FY 2026-27):** The Ministry of Education allocated **₹12,123 crore** under the direct "Support to IITs" budgetary scheme.
     $$\text{Total Public Budget} = ₹12,123 \times 10^7 = ₹121,230,000,000$$
@@ -16,7 +16,7 @@ A comparative financial analysis between public (IIT) and private engineering in
 *   **External Core Revenue Boosts (Average):** IITs collectively generate an estimated **₹1,500 crore annually** through sponsored research projects (from DRDO, ISRO, DST), corporate consultancies, and private alumni endowments.
     $$\text{External Funds} = ₹1,500 \times 10^7 = ₹15,000,000,000$$
 
-### Phase 2: Detailed Calculation Per Source (IIT)
+### 🧮 Phase 2: Detailed Calculation Per Source (IIT)
 
 To calculate the per-student distribution of institutional funds, each financial source is divided independently by the active student baseline ($180,000$):
 
@@ -25,7 +25,7 @@ To calculate the per-student distribution of institutional funds, each financial
 *   **Sponsored Research, Corporate Projects & Endowments:**
     $$\frac{\text{₹15,000,000,000 External Revenue}}{180,000 \text{ Students}} = \mathbf{₹83,333 \text{ per student / year}}$$
 
-### Phase 3: Student Fee Contributions (IIT)
+### 💸 Phase 3: Student Fee Contributions (IIT)
 
 Student contributions vary by category. To evaluate the absolute total resource footprint, we add the maximum baseline fees paid by a non-subsidized (General/OBC) undergraduate student:
 
@@ -35,11 +35,11 @@ Student contributions vary by category. To evaluate the absolute total resource 
 
 ---
 
-## Part 2: Private Engineering Institutions (Tier 1/2 Baseline)
+## 🏢 Part 2: Private Engineering Institutions (Tier 1/2 Baseline)
 
 *Note: Calculations below model a standard tier-1/tier-2 private engineering university campus processing roughly 12,000 total active students across 4 batches.*
 
-### Phase 4: Institutional Core Variables (Private Colleges)
+### 📊 Phase 4: Institutional Core Variables (Private Colleges)
 
 *   **Government Direct Funding:** Private colleges receive **₹0** in direct budgetary support from the Ministry of Education for operational costs.
 *   **Management Quota Capital Influx (Capitation/Donations):** Private institutions typically reserve up to **15% of seats** for Management/NRI quotas. 
@@ -49,7 +49,7 @@ Student contributions vary by category. To evaluate the absolute total resource 
         $$\text{Annual Donation Pool} = \frac{450 \text{ students} \times \text{₹1,000,000}}{4 \text{ years}} = ₹112,500,000 \text{ annually per campus}$$
 *   **Corporate Consultancies & Industrial Training Revenue:** Limited corporate research compared to IITs, averaging roughly **₹30,000,000 annually per campus** from localized industry tie-ups, skill workshops, and campus-hosted infrastructure usage.
 
-### Phase 5: Detailed Calculation Per Source (Private Colleges)
+### 🧮 Phase 5: Detailed Calculation Per Source (Private Colleges)
 
 To find the baseline per-student distribution, institutional pools are divided by the active campus student baseline ($12,000$ active students across all years):
 
@@ -58,7 +58,7 @@ To find the baseline per-student distribution, institutional pools are divided b
 *   **Industrial Training & Local Consultancies Funding:**
     $$\frac{\text{₹30,000,000 Local Revenue}}{12,000 \text{ Campus Students}} = \mathbf{₹2,500 \text{ per student / year}}$$
 
-### Phase 6: Student Fee Contributions (Private Colleges)
+### 💸 Phase 6: Student Fee Contributions (Private Colleges)
 
 Private engineering college operational funding relies almost entirely on student fees. For a standard, non-subsidized student entering via merit/entrance exams:
 
@@ -69,11 +69,11 @@ Private engineering college operational funding relies almost entirely on studen
 
 ---
 
-## Comparative Summary: Total Funding Applied per Student
+## ⚖️ Comparative Summary: Total Funding Applied per Student
 
 The tables below contrast the stark difference in funding structures: IITs rely on deep public subsidies to fund high-cost research ecosystems, while private colleges redirect premium management donations back into running the institutional machine.
 
-### Public (IIT) Final Distribution
+### 🏛️ Public (IIT) Final Distribution
 
 | Funding Component Source | Amount Per Student / Year | Percentage |
 | :--- | :--- | :--- |
@@ -83,7 +83,7 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 | **Research Grants & Corporate Endowments** | ₹83,333 | 8.5% |
 | **TOTAL Annual Capital Invested (IIT)** | **₹986,833** | **100%** |
 
-### Private College Final Distribution
+### 🏢 Private College Final Distribution
 
 #### Tier I private college
 
@@ -107,5 +107,5 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 | **Research Grants & Corporate Endowments** | 0 | 0% |
 | **TOTAL Annual Capital Invested (Tier III Private)** | **₹391,875** | **100%** |
 
-<h3 style="color: #e74c3c;"><strong>Conclusion: An average private college may run on less than half the capital of IIT per student whereas a Tier I private college might run on 1.5x the capital of IIT</strong></h3>
+<h3 style="color: #e74c3c;"><strong>💡 Conclusion: An average private college may run on less than half the capital of IIT per student whereas a Tier I private college might run on 1.5x the capital of IIT 💡</strong></h3>
 
