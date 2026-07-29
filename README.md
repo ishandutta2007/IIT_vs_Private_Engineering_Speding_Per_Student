@@ -105,5 +105,5 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 | **Research Grants & Corporate Endowments** | 0 | 0% |
 | **TOTAL Annual Capital Invested (Tier III Private)** | **₹391,875** | **100%** |
 
-**Conclusion: An average private college may run on less than half the capital of IIT per student whereas a Tier I private college might run on 1.5x the capital of IIT**
+<h3 style="color: #e74c3c;"><strong>Conclusion: An average private college may run on less than half the capital of IIT per student whereas a Tier I private college might run on 1.5x the capital of IIT</strong></h3>
 
