@@ -84,6 +84,7 @@ The tables below contrast the stark difference in funding structures: IITs rely 
 
 | Funding Component Source | Amount Per Student / Year | Percentage |
 | :--- | :--- | :--- |
+| **Government Direct Budgetary Support** | 0 | 0% |
 | **Student-Paid Fee (Merit/Standard Intake)** | ₹380,000 | 97.0% |
 | **Management Quota Donation Redistribution** | ₹9,375 | 2.4% |
 | **Industrial Training & Local Consultancies** | ₹2,500 | 0.6% |
